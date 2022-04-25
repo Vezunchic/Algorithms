@@ -8,7 +8,7 @@ namespace BinarySearch
         {
             Console.WriteLine("начало программы");
             int searchValue = 4;
-            int[] number = { 1, 2, 3, 4, 10, 20, 15,22,41,14,151,62,26,26};
+            int[] number = { 1, 2, 3, 4, 10, 20, 25, 26, 41, 50, 55, 62, 70, 80, 82, 100 };
            int result = BinarySearch(number, searchValue);
         }
         public static int BinarySearch(int[] inputArray, int searchValue)
