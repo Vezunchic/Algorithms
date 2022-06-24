@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFS_BFS_ Search", "DFS_BFS_ Search\DFS_BFS_ Search.csproj", "{6F4937FC-04B4-4121-A66C-FA781AB92F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_DFS_BFS_Search", "Test_DFS_BFS_Search\Test_DFS_BFS_Search.csproj", "{F91E4735-1D42-4A8C-95EB-7BCDCA55EBED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4937FC-04B4-4121-A66C-FA781AB92F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4937FC-04B4-4121-A66C-FA781AB92F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4937FC-04B4-4121-A66C-FA781AB92F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4937FC-04B4-4121-A66C-FA781AB92F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91E4735-1D42-4A8C-95EB-7BCDCA55EBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91E4735-1D42-4A8C-95EB-7BCDCA55EBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91E4735-1D42-4A8C-95EB-7BCDCA55EBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91E4735-1D42-4A8C-95EB-7BCDCA55EBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4585A31-0B3B-427E-BC5C-34058D7091F6}
+	EndGlobalSection
+EndGlobal
